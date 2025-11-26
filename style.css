@@ -1,7 +1,29 @@
 .conatiner{
     display:flex;
 }
+#main.card{
+    flex:1;
+}
+.card{
+    margin:20px;
+    padding:10px;
+    border:1px black solid;
+}
+ 
+#banner {
+    background-image: url(ITALY.png);
+    background-position: center center;
+    background-size: cover;
+    height: 180px;
+}
+nav a{
+    flex:1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+nav a{
+    background-color: crimson;
+}
 
- selector {
-        background-image: url('https://img.klm.com.cn/images/media/5A8A006F-0618-4245-BBC88553D651B6E2');
-    }
