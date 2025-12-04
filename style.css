@@ -1,4 +1,4 @@
-.conatiner{
+.container{
     display:flex;
 }
 #main.card{
@@ -26,4 +26,6 @@ nav a{
 nav a{
     background-color: crimson;
 }
-
+#text div{
+    font-size: 30px;
+}
