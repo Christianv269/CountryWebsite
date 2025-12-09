@@ -39,3 +39,9 @@ nav a{
     box-shadow: 0 8px 16px 0 black;
     filter: grayscale(0%);
 }
+nav a:hover{
+    background-color: burlywood;
+    color: antiquewhite;
+    box-shadow: 0 4px 0;
+    transition: 0.5s;
+}
